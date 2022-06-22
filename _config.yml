@@ -24,7 +24,7 @@ description              : "뭐라도 해보기 위해 시작한 블로그"
 url                      : "https://ParkEun-bi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/500x300.png"
+teaser                   : "/assets/images/bear.jpg"
 logo                     : "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
