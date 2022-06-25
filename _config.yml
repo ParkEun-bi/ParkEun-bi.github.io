@@ -14,6 +14,8 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+future : true
+
 # Site Settings
 locale                   : "ko-KR"
 title                    : "dO sOmething"
@@ -78,6 +80,7 @@ bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
+published : true
 
 # Social Sharing
 twitter:
