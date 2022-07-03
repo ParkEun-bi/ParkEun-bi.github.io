@@ -27,7 +27,6 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : "/assets/images/bear.jpg"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-futrue: true
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
